@@ -56,16 +56,6 @@ Googleフォームで受け付けた内容に応じて、自動で返信メー�
 | messageId | 通信識別用のID（UUID） |
 
 ---
-
-## 🛠 今後の改善案（余力あれば）
-
-- メール本文をスプレッドシート上でテンプレ管理
-- HTMLメール返信対応
-- NGワードリストを外部設定で管理
-- メッセージ送信ログのUUIDからメールスレッドを辿る
-
----
-
 ## 📚 参考リンク
 
 - [GmailApp.sendEmail (公式)](https://developers.google.com/apps-script/reference/gmail/gmail-app#sendemailrecipient,-subject,-body,-options)
