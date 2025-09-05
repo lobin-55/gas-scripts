@@ -1,5 +1,5 @@
 function listAllFilesRecursivelyReturn() {
-  const folderId = "1nG3S9nzMIr46Qw8-2EcOstgO96TXrBdo";
+  const folderId = "1o";
   const root = DriveApp.getFolderById(folderId);
   const ss = SpreadsheetApp.getActive();
   const sh = ss.getActiveSheet();
